@@ -1,10 +1,6 @@
 # Stack
 
-A collection of the tools we use at Clockwork. 
-If you have a tool you would like to include, create a pull request.
-
-Checkout the [contribution guide](../../../guidelines/blob/master/CONTRIBUTING.md)
-before creating a pull request.
+A collection of the tools we use at Clockwork
 
 ---
 
@@ -27,4 +23,17 @@ before creating a pull request.
 ### Frameworks
 
 [![Bootstrap](./img/bootstrap-padded-90.png)](http://getbootstrap.com/)
+
+
+If you have a tool you would like to include, create a pull request.
+
+Checkout the [contribution guide](../../../guidelines/blob/master/CONTRIBUTING.md)
+before creating a pull request.
+
+Maintainers
+======
+
+![clockwork](./assets/logos/logo.png)
+
+This guide is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
 
