@@ -2,7 +2,7 @@
 
 A collection of the tools we use at Clockwork. 
 If you have a tool you would like to include, create a pull request.
-We strongly recommend you checkout the [contribution guide](../../../guidelines/CONTRIBUTING.md)
+We strongly recommend you checkout the [contribution guide](../../../guidelines/blob/master/CONTRIBUTING.md)
 before you do. Goodluck!
 
 ---
