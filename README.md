@@ -24,16 +24,22 @@ A collection of the tools we use at Clockwork
 
 [![Bootstrap](./img/bootstrap-padded-90.png)](http://getbootstrap.com/)
 
+---
 
-If you have a tool you would like to include, create a pull request.
+Contributing
+======
 
-Checkout the [contribution guide](../../../guidelines/blob/master/CONTRIBUTING.md)
-before creating a pull request.
+Please read the [contribution guidelines] before submitting a pull request.
+
+In particular: <strong>If you have commit access, please don't merge changes without
+waiting a week for everybody to leave feedback.</strong>
+
+[contribution guidelines]: ../../../contributing
 
 Maintainers
 ======
 
 ![clockwork](./assets/logos/logo.png)
 
-This guide is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
+This repository is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
 
