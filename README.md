@@ -9,6 +9,10 @@ A collection of the tools we use at Clockwork
 - JS :fire:
 - [PHP](http://php.net/manual/en/intro-whatis.php) :fire:
 
+### Runtime
+
+- [Node](https://nodejs.org/en/) :fire:
+
 ### Frontend Frameworks
 
 - [Vue](https://vuejs.org/) :fire:
@@ -16,6 +20,22 @@ A collection of the tools we use at Clockwork
 - [React](https://facebook.github.io/react/)
 
 - [Bootstrap](http://getbootstrap.com/) :fire:
+
+### Serverside Frameworks
+
+- [Serverless](https://serverless.com/) :fire:
+
+### Complete Frameworks
+
+- [Laravel](https://laravel.com/) :fire:
+
+### App Frameworks
+
+- [Ionic](https://ionicframework.com/) :fire:
+
+### Cloud
+
+- [Amazon Web Services](https://aws.amazon.com/) :fire:
 
 ### Linters
 
