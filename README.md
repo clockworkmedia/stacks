@@ -6,23 +6,24 @@ A collection of the tools we use at Clockwork
 
 ### Languages
 
-![JS](./img/js-padded.png)
+- JS
+- [PHP](http://php.net/manual/en/intro-whatis.php)
 
 ### Linters
 
-[![ESLint](./img/eslint-padded-90.png)](http://eslint.org/)
+- [ESLint](http://eslint.org/)
 
 ### Package Managers
 
-[![Yarn](./img/yarn-padded-90.png)](https://yarnpkg.com/)
+- [Yarn](https://yarnpkg.com/)
 
 ### Module Bundlers
 
-[![Webpack](./img/webpack-padded-90.png)](https://webpack.github.io/)
+- [Webpack](https://webpack.github.io/)
 
 ### Frameworks
 
-[![Bootstrap](./img/bootstrap-padded-90.png)](http://getbootstrap.com/)
+- [Bootstrap](http://getbootstrap.com/)
 
 ---
 
@@ -39,7 +40,7 @@ waiting a week for everybody to leave feedback.</strong>
 Maintainers
 ======
 
-![clockwork](./assets/logos/logo.png)
+![clockwork](http://apps.clockworkmedia.co.za/github/assets/logos/logo.png)
 
 This repository is maintained by [Clockwork Media](//www.clockworkmedia.co.za).
 
