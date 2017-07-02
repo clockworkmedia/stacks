@@ -6,29 +6,29 @@ A collection of the tools we use at Clockwork
 
 ### Languages
 
-- JS :star:
-- [PHP](http://php.net/manual/en/intro-whatis.php) :star:
+- JS :fire:
+- [PHP](http://php.net/manual/en/intro-whatis.php) :fire:
 
 ### Frontend Frameworks
 
-- [Vue](https://vuejs.org/) :star:
+- [Vue](https://vuejs.org/) :fire:
 - [Angular](https://angular.io/)
 - [React](https://facebook.github.io/react/)
 
-- [Bootstrap](http://getbootstrap.com/) :star:
+- [Bootstrap](http://getbootstrap.com/) :fire:
 
 ### Linters
 
-- [ESLint](http://eslint.org/) :star:
+- [ESLint](http://eslint.org/) :fire:
 
 ### Package Managers
 
-- [NPM](https://yarnpkg.com/) :star:
+- [NPM](https://yarnpkg.com/) :fire:
 - [Yarn](https://yarnpkg.com/)
 
 ### Module Bundlers
 
-- [Webpack](https://webpack.github.io/) :star:
+- [Webpack](https://webpack.github.io/) :fire:
 
 ---
 
